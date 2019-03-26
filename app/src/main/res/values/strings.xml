@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Reading List</string>
+    <string name="book_game">Game of Thrones</string>
+    <string name="book_game_author">George R. R. Martin</string>
+    <string name="book_game_genre">fiction</string>
+    <string name="book_harry_potter">Harry Potter</string>
+    <string name="book_harry_potter_author">J. K. Rowling</string>
+    <string name="book_harry_potter_genre">fiction</string>
+    <string name="book_wuthering_heights">Wuthering Heights</string>
+    <string name="book_wuthering_author">Emily Brontë</string>
+    <string name="book_wuthering_genre">classic literature</string>
+    <string name="book_da_vinci">The Da Vinci Code</string>
+    <string name="book_da_vinci_author">Dan Brown</string>
+    <string name="book_da_vinci_genre">fiction</string>
+    <string name="reading">reading in progress</string>
+    <string name="finish">finish reading</string>
+</resources>
